@@ -80,8 +80,8 @@ This project is licensed under the Apache License - see the [Apache](LICENSE) fi
 
 If you have any questions or feedback, feel free to reach out to us:
 
-- Email: monikamahla5463@gmail.com
-- GitHub: [monika5463](https://github.com/monika5463)
+- Email: ishan.rko@outlook.com
+- GitHub: [Insecure-Panda](https://github.com/Insecure-Panda)
 
 ---
 
